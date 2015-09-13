@@ -6,8 +6,8 @@ class Probe < Formula
   head "https://github.com/karlkfi/probe.git"
 
   stable do
-    url "https://github.com/karlkfi/probe/archive/v0.1.0.tar.gz"
-    sha256 "ee40591f7722202a62049b181f864aef544d0fcd6370f675f502e6d2cd920644"
+    url "https://github.com/karlkfi/probe/archive/v0.2.0.tar.gz"
+    sha256 "03dc39b8941f416edabdf5cdbe1e13dadd661fbade90eab6080231d0f9df5e1b"
   end
 
   depends_on "go" => :build
